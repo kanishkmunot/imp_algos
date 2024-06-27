@@ -20,3 +20,7 @@ bin/
 
 # Unignore all `.exe` in `bin` dir
 !*/bin/*.exe
+
+practice.cpp
+tempCodeRunnerFile.cpp
+settings.json
